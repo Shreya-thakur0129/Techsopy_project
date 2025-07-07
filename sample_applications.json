@@ -1,0 +1,16 @@
+[
+  {
+    "id": "A123",
+    "age": 45,
+    "smoker": "yes",
+    "medical_conditions": ["BP"],
+    "income": null
+  },
+  {
+    "id": "B456",
+    "age": 30,
+    "smoker": "no",
+    "medical_conditions": [],
+    "income": 80000
+  }
+]
